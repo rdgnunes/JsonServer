@@ -1,0 +1,26 @@
+[
+{
+   "CarroId": 4,
+   "Modelo": "Mercedes - Benz SLS AMG",
+   "Ano": 2013,
+   "Foto": "http://www.macoratti.net/imagens/carros/mercedes1.jpg"
+},
+{
+   "CarroId": 5,
+   "Modelo": "BMW 740 i",
+   "Ano": 2015,
+   "Foto": "http://www.macoratti.net/imagens/carros/bmw1.jpg"
+},
+{
+   "CarroId": 6,
+   "Modelo": "Audi A7",
+   "Ano": 2016,
+   "Foto": "http://www.macoratti.net/imagens/carros/audia71.jpg"
+},
+{
+   "CarroId": 7,
+   "Modelo": "Mustang ",
+   "Ano": 2016,
+   "Foto": "http://www.macoratti.net/imagens/carros/mustanggt1.jpg"
+}
+]
